@@ -1,6 +1,8 @@
 # 日语单词变形练习 Anki 插件
 
 在 Anki 复习日语单词时，针对当前单词进行变形选择题练习。
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/40253096-6783-4c7f-b80d-201d5ba24607" />
+
 
 ## 功能
 
