@@ -1,0 +1,10 @@
+{
+    "package": "japanese_conjugation_practice",
+    "name": "Japanese Conjugation Practice",
+    "version": "1.0.0",
+    "author": "Anki User",
+    "homepage": "",
+    "conflicts": [],
+    "min_point_version": 45,
+    "max_point_version": 0
+}
