@@ -1,7 +1,10 @@
 # 日语单词变形练习 Anki 插件
 
 在 Anki 复习日语单词时，针对当前单词进行变形选择题练习。
-<img width="682" height="612" alt="image" src="https://github.com/user-attachments/assets/e97aff6b-aa6e-4150-9ddd-7640697e4676" />
+<div align="center">
+  <img src="https://github.com/tianyuebj/japanese_conjugation_practice/blob/main/anki%E6%BC%94%E7%A4%BA.gif?raw=true" width="600" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <p><i>Plugin Preview / 演示动画</i></p>
+</div>
 
 
 
